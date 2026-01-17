@@ -1,6 +1,6 @@
 name: "astrbot_plugin_whois 
 display_name: 域名Whois查询
 desc: 域名Whois查询工具，没啥用的玩意
-version: v0.1_Beta
+version: v0.1.Beta
 author: 5060ti个马力的6999
 repo: https://github.com/HSOS6/astrbot_plugin_whois
