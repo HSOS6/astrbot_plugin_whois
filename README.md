@@ -1,4 +1,4 @@
-<img width="633" height="794" alt="image" src="https://github.com/user-attachments/assets/c6de2834-1adf-4ca8-83e2-cef51e957a21" /># astrbot_plugin_whois插件
+# astrbot_plugin_whois插件
 
 <div align="center">
 
