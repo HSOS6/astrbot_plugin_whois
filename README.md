@@ -1,4 +1,4 @@
-# astrbot_plugin_whois插件
+<img width="633" height="794" alt="image" src="https://github.com/user-attachments/assets/c6de2834-1adf-4ca8-83e2-cef51e957a21" /># astrbot_plugin_whois插件
 
 <div align="center">
 
@@ -19,34 +19,8 @@ _（没了）_
 ## 如何使用
 发送`/whois xinjianya.top`
 
-返回内容：
-```
+## 安装本插件
+这个插件不打算上传插件市场
 
-WHOIS 查询结果
-
-状态码: 1 (成功)
-是否可注册: 否
-域名: xinjianya.top
-域名后缀: top
-查询时间: 1978-12-18 19:17:47
-
-注册人: 未公开
-注册邮箱: 未公开
-注册商: Chengdu west dimension digital
-创建时间: 2025-07-31 19:57:09
-到期时间: 2026-07-31 19:57:09
-已注册天数: 1145 天
-剩余有效期: 514 天
-是否过期: 否
-
-域名状态:
-- ok （正常）
-
-DNS 服务器:
-- denver.ns.cloudflare.com
-- raquel.ns.cloudflare.com
-
-Whois 服务器:
-whois.west263.com
-
-```
+你可以使用手动安装方式安装本插件，url填写 https://github.com/HSOS6/astrbot_plugin_whois
+<img width="633" height="794" alt="image" src="https://github.com/user-attachments/assets/8ca328d1-86b8-4e67-a767-04a87e467df5" />
