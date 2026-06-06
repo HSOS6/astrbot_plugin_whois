@@ -1,4 +1,4 @@
-# astrbot_plugin_whois插件
+# astrbot_plugin_whois插件（这个坏了）
 
 <div align="center">
 
